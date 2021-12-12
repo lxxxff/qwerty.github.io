@@ -1,13 +1,6 @@
 ## 
 个人网站
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # 没啥用
 ## 👇网址
 ### https://mp.weixin.qq.com/s/NDYeTlyqxfa6Ve9KKQaVWA
