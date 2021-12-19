@@ -1,9 +1,8 @@
 ## 
 个人网站
 
-# 没啥用
 ## 👇网址
-### https://mp.weixin.qq.com/s/NDYeTlyqxfa6Ve9KKQaVWA
+### https://mp.weixin.qq.com/s/lZQzhaHYtULDthNx8PxlrQ
 
 - Bulleted
 - List
