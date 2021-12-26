@@ -1,7 +1,7 @@
 个人网站
 
 ## 👇网址
-### https://mp.weixin.qq.com/s/lZQzhaHYtULDthNx8PxlrQ
+###https://study.dgjy.net/#/personal/video?mocId=1464582179&mocctId=1465479486&courseName=%E2%80%9C%E4%BA%94%E5%B9%B4%E7%BA%A7%E9%9F%B3%E4%B9%90%E2%80%9D%E6%AF%8F%E5%91%A8%E4%B8%80%E6%AD%8C&issueType=%E5%AD%A6%E7%94%9F%E5%AD%A6%E4%B9%A0&canDrag=true&canRecord&isNologin=false
 
 - Bulleted
 - List
